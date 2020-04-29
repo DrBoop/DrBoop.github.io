@@ -117,6 +117,10 @@ nav {
     padding-top: 6.5vh;
 }
 
+p {
+    font-family: 'Roboto';
+}
+
 h1 {
     color: white;
     font-size: 12vw;
